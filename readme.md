@@ -1,6 +1,6 @@
 # 1.1. Введение в DevOps — Алексей Храпов
 ## Задание №1
-###Подсветка синтаксиса:
+### Подсветка синтаксиса:
   - Terraform: ![Терраформ](img/terraform.png)
   - Bash: ![bahs](img/bash.png)
   - Markdown: ![markdown](img/markdown.png)
